@@ -19,3 +19,6 @@ Model: Custom KNN trained on face images
 UI: OpenCV overlay with live camera feedback
 Storage: CSV logs, Excel reports, Pickle encodings
 Voice Feedback: Windows speech engine
+
+## 🤝 Contributions
+Pull requests and feature requests are welcome!
